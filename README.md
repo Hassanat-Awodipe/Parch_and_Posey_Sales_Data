@@ -17,8 +17,8 @@ A slicer for the timeline has also been added.
 
 ## Second Edit
 
-The accounts and region table was denormalised with SQL JOIN so that a star schmea can be generated for the data model.
+The accounts and region table was denormalised with SQL JOIN so that a star schmea can be generated for the data model. The new accounts table was downloaded as a CSV file.
 
-The SQL file can be found in the repository.
+The SQL code and the CSV file can be found in the repository. 
 
 Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
