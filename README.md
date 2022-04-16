@@ -12,9 +12,11 @@ The dashboard has been adjusted so that it can be viewed as one or more of the f
 * Northeast manager
 * West manager
 
--- A slicer for the timeline has also been added.
+A slicer for the timeline has also been added.
 
 
 ## Second Edit
 
-The accounts table 
+The accounts and region table was denormalised with SQL JOIN so that a star schmea can be generated for the data model.
+The SQL file can be found in the repository.
+Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
