@@ -3,7 +3,7 @@
 
 Interactive visualization of the sales data of a paper company to analyze the performance of sales over a period of time.
 
-## First Edit
+## Edit 1
 
 The dashboard has been adjusted so that it can be viewed as one or more of the following:
 
@@ -15,7 +15,7 @@ The dashboard has been adjusted so that it can be viewed as one or more of the f
 A slicer for the timeline has also been added.
 
 
-## Second Edit
+## Edit 2
 
 The accounts and region table was denormalised with SQL JOIN so that a star schmea can be generated for the data model. The new accounts table was downloaded as a CSV file.
 
