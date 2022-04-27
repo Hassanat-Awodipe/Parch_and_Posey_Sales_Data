@@ -22,3 +22,15 @@ The accounts and region table was denormalised with SQL JOIN so that a star schm
 The SQL code and the CSV file can be found in the repository. 
 
 Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
+
+
+## Edit 3
+
+Imported data from Postgres database.
+
+## Edit 4
+
+Added two additional dashboards for revenue contribution and paper types
+
+Remodeled the dataset and assigned the orders table as the facts table
+
