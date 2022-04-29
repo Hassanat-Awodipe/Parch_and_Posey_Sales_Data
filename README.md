@@ -26,11 +26,11 @@ Calculated columns for the unit cost of standard, poster and gloss paper were ad
 
 ## Edit 3
 
-Imported data from Postgres database.
+Imported data from Postgres database to replace the ones that were intially imported from a CSV file. The datasets still remain the same.
 
 ## Edit 4
 
-Added two additional dashboards for revenue contribution and paper types
+Added two additional dashboards for revenue contribution percentage and breakdown of the performance of each paper type
 
 Remodeled the dataset and assigned the orders table as the facts table
 
