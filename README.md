@@ -1,7 +1,5 @@
 # Interactive visualization of the sales data of a paper company
 
-[Interactive Visualization of Sales Data of a Paper Company_pdf.pdf](https://github.com/Hassanat-Awodipe/Power_BI--Parch_and_Posey_Sales_Data/files/8599555/Interactive.Visualization.of.Sales.Data.of.a.Paper.Company_pdf.pdf)
-
 
 ## Introduction
 
