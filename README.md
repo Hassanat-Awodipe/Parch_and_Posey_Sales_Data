@@ -1,7 +1,19 @@
-# Power_BI-Parch_and_Posey_Sales_Data
+# Interactive visualization of the sales data of a paper company
+
+[Interactive Visualization of Sales Data of a Paper Company_pdf.pdf](https://github.com/Hassanat-Awodipe/Power_BI--Parch_and_Posey_Sales_Data/files/8599555/Interactive.Visualization.of.Sales.Data.of.a.Paper.Company_pdf.pdf)
 
 
-Interactive visualization of the sales data of a paper company to analyze the performance of sales over a period of time.
+## Introduction
+
+The data was extracted from a local PostgreSQL database, transformed with Power Query then connections were confirmed. 
+
+
+
+## Objective
+
+To create a report that shows details of the sale of standard, gloss, and poster papers over a period of four years.
+
+
 
 ## Edit 1
 
