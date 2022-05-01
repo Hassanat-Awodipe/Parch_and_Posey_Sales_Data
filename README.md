@@ -15,16 +15,13 @@ The Report has been adjusted so that it can be viewed as one or more of the foll
 A slicer for the timeline has also been added.
 
 
-## Edit 2
+## Edit 3
 
 The accounts and region table were denormalised with SQL JOIN so that a star schmea can be generated for the data model. The new accounts table was then downloaded as a CSV file.
 
 The SQL code and the CSV file can be found in the repository. 
 
 Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
-
-
-## Edit 3
 
 Imported data from Postgres database to replace the ones that were intially imported from Excel CSV file. The datasets still remain the same.
 
@@ -34,4 +31,9 @@ Imported data from Postgres database to replace the ones that were intially impo
 Added two additional reports for revenue contribution percentage and breakdown of the performance of each paper type
 
 Remodeled the dataset and assigned the orders table as the facts table
+
+
+## Edit 5
+
+Exported the pbix to pdf to ease viewing.
 
