@@ -7,7 +7,8 @@ Parch and Posey is a paper production company. It produces three kinds of paper:
 ### Data: 
 The data was initially downloaded as CSV files from SQL course by Mode on Udacity. And it was used to make the first dashboard. Later on, a Postgres database was created and the data was uploaded. I made sure to use the same schema as its source which can be seen below.
 ![image](https://user-images.githubusercontent.com/45914807/187090049-35dde0da-9b59-4e6e-904c-512b06219142.png)
-Subsequently, the data was then *extracted* from the local PostgreSQL database, *transformed* with Power Query then *loaded* to Power BI. 
+
+Subsequently, the data was *extracted* from the database, *transformed* with Power Query then *loaded* to Power BI. 
 
 ## Objective
 To create a an interactive dashboard that shows sales performance over a 4-year fiscal period.  
@@ -33,11 +34,11 @@ To create a an interactive dashboard that shows sales performance over a 4-year 
 2. Remodelled the dataset and assigned the orders table as the facts table
 
 ### Edit 5
-1. Exported the pbix to pdf to ease viewing.
+1. Removed the introduction and conclusion reports
+2. Exported the pbix to pdf to ease viewing.
 
 ### Edit 6
 1. Re-polished the visual feel of the dashboard after continuous learning and included data storytelling concepts.
-2. 
 
 
 ## Conclusion
