@@ -1,4 +1,4 @@
-"id","name","website","lat","long","primary_poc","sales_rep_id","region_name"
+"id","name","website","lat","long","primary_poc","sales_rep_id",'region_name'
 1001,"Walmart","www.walmart.com",40.238495,-75.103294,"Tamara Tuma",321500,"Northeast"
 1011,"Exxon Mobil","www.exxonmobil.com",41.169155,-73.84937,"Sung Shields",321510,"Northeast"
 1021,"Apple","www.apple.com",42.290493,-76.08401,"Jodee Lupo",321520,"Northeast"
