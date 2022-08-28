@@ -2,10 +2,15 @@
 
 
 ## Introduction
-The data was extracted from a local PostgreSQL database, transformed with Power Query then connections were confirmed. 
+Parch and Posey is a paper production company. It produces three kinds of paper: `standard, gloss and poster papers`.  
+
+### Data: 
+The data was initially downloaded as CSV files from SQL course by Mode on Udacity. And it was used to make the first dashboard. Later on, a Postgres database was created and the data was uploaded. I made sure to use the same schema as its source which can be seen below.
+![image](https://user-images.githubusercontent.com/45914807/187090049-35dde0da-9b59-4e6e-904c-512b06219142.png)
+Subsequently, the data was then *extracted* from the local PostgreSQL database, *transformed* with Power Query then *loaded* to Power BI. 
 
 ## Objective
-To create a report that shows details of the sale of standard, gloss, and poster papers over a period of four years.
+To create a an interactive dashboard that shows sales performance over a 4-year fiscal period.  
 
 ### Edit 1
 1. The Report has been adjusted so that it can be viewed as one or more of the following roles:
@@ -16,18 +21,23 @@ To create a report that shows details of the sale of standard, gloss, and poster
 2. A slicer for the timeline has also been added.
 
 ## Edit 3
-1. The accounts and region table were denormalised with SQL JOIN so that a star schmea can be generated for the data model. The new accounts table was then downloaded as a CSV file.
-2. The SQL code and the CSV file can be found in the repository. 
-3. Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
-4. Imported data from Postgres database to replace the ones that were intially imported from Excel CSV file. The datasets still remain the same.
+1. Created a Postgres database for Parch and Posey in my local machine.
+2. Imported data from Postgres database to replace the ones that were intially imported from Excel CSV file. The datasets still remain the same.
+3. The accounts and region table were denormalised with SQL JOIN so that a star schmea can be generated for the data model. The new accounts table was then downloaded as a CSV file.
+![image](https://user-images.githubusercontent.com/45914807/187090128-403a17b3-4106-4fe0-94c8-fd537f947738.png)
+> The SQL code and the CSV file can be found in the repository. 
+4. Calculated columns for the unit cost of standard, poster and gloss paper were added using DAX.
 
 ### Edit 4
 1. Added two additional reports for revenue contribution percentage and breakdown of the performance of each paper type
-2. Remodeled the dataset and assigned the orders table as the facts table
+2. Remodelled the dataset and assigned the orders table as the facts table
 
 ### Edit 5
-3. Exported the pbix to pdf to ease viewing.
+1. Exported the pbix to pdf to ease viewing.
 
 ### Edit 6
+1. Re-polished the visual feel of the dashboard after continuous learning and included data storytelling concepts.
+2. 
 
 
+## Conclusion
