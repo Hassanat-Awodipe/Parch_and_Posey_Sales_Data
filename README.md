@@ -5,7 +5,7 @@
 Parch and Posey is a paper production company. It produces three kinds of paper: `standard, gloss and poster papers`.  
 
 ### Data: 
-The data was initially downloaded as CSV files from SQL course by Mode on Udacity. And it was used to make the first dashboard. Later on, a Postgres database was created and the data was uploaded. I made sure to use the same schema as its source which can be seen below.
+The data was initially downloaded as CSV files from the SQL course by Mode on Udacity. And it was used to make the first dashboard. Later on, a Postgres database was created and the data was uploaded. I made sure to use the same schema as its source which can be seen below.
 ![image](https://user-images.githubusercontent.com/45914807/187090049-35dde0da-9b59-4e6e-904c-512b06219142.png)
 
 Subsequently, the data was *extracted* from the database, *transformed* with Power Query then *loaded* to Power BI. 
@@ -39,6 +39,3 @@ To create a an interactive dashboard that shows sales performance over a 4-year 
 
 ### Edit 6
 1. Re-polished the visual feel of the dashboard after continuous learning and included data storytelling concepts.
-
-
-## Conclusion
