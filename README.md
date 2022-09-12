@@ -3,6 +3,7 @@
 
 ## Introduction
 Parch and Posey is a paper production company. It produces three kinds of paper: `standard, gloss and poster papers`. The aim of this project is to visualize their sales over a 4-year fiscal period.
+
 Curious as to how to apply my SQL, Power BI and DAX skills, I decided to assign myself this project.
 
 ### Data: 
